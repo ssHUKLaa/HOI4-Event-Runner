@@ -6,3 +6,10 @@
 *.ipch
 *.log
 *.exe
+*.db
+*.recipe
+*.recipe
+*.enc
+*.vsidx
+*.lock
+*.db
